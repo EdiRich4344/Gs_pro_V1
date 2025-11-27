@@ -1,0 +1,5 @@
+{
+  "name": "Good Shepherd Hostel Admin",
+  "description": "A comprehensive management application for the Good Shepherd Ladies Hostel. This dashboard allows administrators to manage residents, rooms, and daily meal plans efficiently, with an AI-powered notice generator to enhance communication.",
+  "requestFramePermissions": []
+}

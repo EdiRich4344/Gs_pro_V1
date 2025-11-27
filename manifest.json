@@ -1,0 +1,26 @@
+{
+  "id": "/",
+  "short_name": "GS Hostel",
+  "name": "Good Shepherd Hostel Admin",
+  "description": "A comprehensive management application for the Good Shepherd Ladies Hostel.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#6366f1",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ]
+}
